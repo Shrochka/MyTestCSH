@@ -1,0 +1,6 @@
+C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\obj\Debug\Test_CopyFile.csprojAssemblyReference.cache
+C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\obj\Debug\Test_CopyFile.csproj.CoreCompileInputs.cache
+C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\bin\Debug\Test_CopyFile.exe
+C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\bin\Debug\Test_CopyFile.pdb
+C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\obj\Debug\Test_CopyFile.exe
+C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\obj\Debug\Test_CopyFile.pdb
