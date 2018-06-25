@@ -4,3 +4,9 @@ C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\bin\Debug\Test_CopyFile.exe
 C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\bin\Debug\Test_CopyFile.pdb
 C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\obj\Debug\Test_CopyFile.exe
 C:\Project\Test_CopyFile\Test_CopyFile\Test_CopyFile\obj\Debug\Test_CopyFile.pdb
+C:\Users\Shura\Source\Repos\MyTestCSH5\Test_CopyFile\bin\Debug\Test_CopyFile.exe
+C:\Users\Shura\Source\Repos\MyTestCSH5\Test_CopyFile\bin\Debug\Test_CopyFile.pdb
+C:\Users\Shura\Source\Repos\MyTestCSH5\Test_CopyFile\obj\Debug\Test_CopyFile.csprojAssemblyReference.cache
+C:\Users\Shura\Source\Repos\MyTestCSH5\Test_CopyFile\obj\Debug\Test_CopyFile.csproj.CoreCompileInputs.cache
+C:\Users\Shura\Source\Repos\MyTestCSH5\Test_CopyFile\obj\Debug\Test_CopyFile.exe
+C:\Users\Shura\Source\Repos\MyTestCSH5\Test_CopyFile\obj\Debug\Test_CopyFile.pdb

@@ -12,12 +12,16 @@ namespace Test_CopyFile
         {
             try
             {
-                string OriginalFile = "C:/Project/Test_CopyFile/Test_CopyFile/Test_res/source/3.txt";
-                string FileToReplace = "C:/Project/Test_CopyFile/Test_CopyFile/Test_res/archive/3.txt";
-                //string BackUpOfFileToReplace = "test2.xml.bac";
+              //  string fullPath;
+                string OriginalFile = Path.GetFullPath(@"..\..\..\Test_res\source\99.txt");
+                string FileToReplace = Path.GetFullPath(@"..\..\..\Test_res\archive\99.txt");
 
-                Console.WriteLine("Move the contents of " + OriginalFile + " into " + FileToReplace + ", delete " + OriginalFile +
-                                   ", and create a backup of " + FileToReplace + ".");
+
+              //  fullPath = Path.GetFullPath(OriginalFile);
+
+               // Console.WriteLine("GetFullPath('{0}') returns '{1}'",  path1, fullPath);
+
+                Console.WriteLine("Copy file " + OriginalFile + " into " + FileToReplace + ", delete " + OriginalFile + ".");
 
                 // Replace the file.
                 ReplaceFile(OriginalFile, FileToReplace);
